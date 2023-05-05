@@ -1,0 +1,10 @@
+┏╸ma:simplechunkloaders
+┃┏╸bo:generate_documentation
+┃┣> Variable Type: java.lang.Boolean
+┃┣> Default: true
+┃┗╸
+┃┏╸bo:display_load_and_unload
+┃┣> Variable Type: java.lang.Boolean
+┃┣> Default: false
+┃┗╸
+┗╸
